@@ -1,0 +1,16 @@
+
+body{
+    background-color: red;
+}
+.heading{
+    text-decoration: wavy;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+.subheading{
+    text-align: center;
+    text-decoration: underline;
+
+}
